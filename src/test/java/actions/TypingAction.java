@@ -17,5 +17,4 @@ public class TypingAction {
         TypingAction.webDriver = webDriver;
     }
 
-
 }

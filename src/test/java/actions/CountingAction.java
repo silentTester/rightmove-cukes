@@ -14,4 +14,5 @@ public class CountingAction {
     public static void setWebDriver(WebDriver webDriver) {
         CountingAction.webDriver = webDriver;
     }
+
 }
